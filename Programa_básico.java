@@ -16,11 +16,8 @@ public class Programa_básico {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
-        
-        System.err.print("BIENVENIDOS TODOS");
-        //YO
-        System.out.println("COMO LES VA");
+        System.out.println("bienvenidos");
+   
     }
     
 }
